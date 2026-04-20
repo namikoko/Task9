@@ -1,0 +1,35 @@
+Emile Bédard
+Interactive Bike Garage II
+Link: https://emilebedard.github.io/cart263/Projects/project2/interactive_bike_garage_ii/maintenance.html
+Emile’s project when opening is already eye-catching because of the graphics. I loved the 3d movements as well that unironically made the creation very interactive and attention grabbing.
+It reads like a real maintenance companion for cyclists rather than a conceptual experiment. The structure is straightforward and easy to navigate. 
+I can’t speak much on the tips, as I do not know how to maintain a bike but it seems to be useful.  The project catches the user’s attention with the visuals and keeps the user there with the information available.
+The code is mostly HTML and CSS with minimal scripting. The restraint works. It feels like a tool someone could actually use in a garage.
+
+Sean Gregory
+Be Not Afraid
+Link: https://seangregoryv8.github.io/cart263/projects/2/
+Sean’s project creates a strong sense of atmosphere with very little text. The instruction to press E to switch between human and God camera views sets the tone immediately. 
+The most compelling part is obviously the visuals, when I saw the experience I thought it resembled the “real depiction” of angels.
+I really enjoyed the camera movements, especially from the human POV, it felt very threatening and unnerving.Overall, I really enjoyed the project. 
+
+Yaxuan Pang
+3D Snake
+Link: https://yaxuanpang.github.io/cart263/topics/project2/
+Yaxuan’s  game reminded me of the game Slither.io, but upgraded. I really like the 3d aspect, especially how we can move our point of view either on top or under the game grid. 
+Moreso I like how voice is integrated for the targets its quite interesting. Overall, I had fun and played a couple of games. 
+
+Aydan McGrail
+Final Project
+Link: https://aydanmcgrail.github.io/cart263_FinalProject/
+Aydan’s project was quite fun and reminded me of the boxing game back in Wii. I enjoy those kinds of games.
+The visuals are very wacky which brings a certain charm to the game. I also like the addition of blood when playing. 
+The experience is simple but fun. Unfortunately I kept losing but its still a fun game to play
+
+Lucie
+Project II
+Link: https://luciee246.github.io/cart263/projects/project-II/
+Lucie’s project is my favourite so far because I love word games. I love the UI with the pixels and I really liked that concept of the game. 
+It was very fun and I played for a long time. The code shows attention to input handling and conditional logic. The most surprising part is how expressive the project feels with minimal visuals.
+My only suggestions would b perhaps having levels so it keeps the game exciting but I still loved it. 
+
